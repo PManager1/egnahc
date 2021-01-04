@@ -1,0 +1,8 @@
+# robots.txt for https://www.changehealthcare.com
+
+User-agent: *
+Disallow: /search
+Disallow: /content/dam/change-healthcare/support/enrollment-forms
+Disallow: /content/changehealth/style-guide
+
+Sitemap: https://www.changehealthcare.com/content/changehealth/us/sitemap.xml
