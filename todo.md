@@ -6,6 +6,7 @@ Fonts not loading.
 
 Look for fa-search icon on the home page. 
 
+Update the icon favicon. 
 
 
 Competition Websites- 
