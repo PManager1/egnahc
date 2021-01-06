@@ -41,3 +41,18 @@ https://www.changehealthcare.com/contact/sales
 Values page from ER 
 https://hcjm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/pages/1
 
+Nice  pics - 
+https://hcjm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/pages/1
+
+Partnership/ buy build sell 
+https://www.equityapartments.com/buybuildsell
+
+Markets -  full page 
+https://www.equityapartments.com/#markets
+Got it. 
+
+
+Support features: 
+Fix your support links as per this page. 
+https://www.heartland.com/how-we-do-it/support-office.html
+
